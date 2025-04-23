@@ -1,0 +1,9 @@
+FRAUD RAKSHAK REPORT - 2025-04-07_16-06-38
+
+Voice Fraud Score: 0.87
+Face Fraud Score: 0.65
+Text Fraud Score: 0.91
+
+Overall Risk: HIGH
+
+--- END OF REPORT ---

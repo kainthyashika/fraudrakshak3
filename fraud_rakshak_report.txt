@@ -1,0 +1,21 @@
+
+    FRAUD RAKSHAK - OFFLINE REPORT
+    ===============================
+
+    [FACE ANALYSIS]
+    Score: 100/100
+
+    [VOICE ANALYSIS]
+    Score: 70/100
+
+    [TEXT ANALYSIS]
+    Score: 40/100
+    Triggered Keywords: otp, lottery
+
+    -------------------------------
+    Final Fraud Score: 70/100
+    Verdict: Potential SCAM
+    -------------------------------
+
+    Thank you for using Fraud Rakshak.
+    

@@ -1,0 +1,11 @@
+FRAUD RAKSHAK REPORT - 2025-04-08_00-47-45
+
+Voice Fraud Score: 0.91
+Face Fraud Score: 0.65
+Text Fraud Score: 0.89
+
+Overall Risk: HIGH
+
+--- ACTION TAKEN ---
+Auto-Report Generated: YES
+Blocked Caller: YES
